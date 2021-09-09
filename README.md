@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorud2592@gmail.com"/></p>
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qudgus21"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xorud2592"/></p>
