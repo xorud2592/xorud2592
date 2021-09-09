@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=03fcd7&height=170&section=header&text=이태경&fontSize=70&fontAlign=77&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15e8cc&height=170&section=header&text=이태경&fontSize=70&fontAlign=77&fontColor=ffffff" />
 
 <!--
 **xorud2592/xorud2592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
