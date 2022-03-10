@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 <p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qsqsqs19"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xorud2592"/></p>
+
+# 참여한 활동
+
+2021 우아한테크캠프 4기 프론트엔드
